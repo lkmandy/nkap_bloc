@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "174081459381",
+    "project_id": "nkap-add56",
+    "storage_bucket": "nkap-add56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174081459381:android:0574c0e6705c560838aafc",
+        "android_client_info": {
+          "package_name": "com.lkmandy.nkap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174081459381-rj86erklr22h2tii9cu0p9a5rcsf0eha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldFSqkkUSTs8rQgVrQHKZSGUMHFGB40M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174081459381-rj86erklr22h2tii9cu0p9a5rcsf0eha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174081459381-vrft7sa4cbi0ot4g6j28t91i677c6crv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lkmandy.nkap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
